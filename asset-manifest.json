@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/algoliamovies/static/css/main.805e8ffb.chunk.css",
+    "main.js": "/algoliamovies/static/js/main.2cdbc731.chunk.js",
+    "main.js.map": "/algoliamovies/static/js/main.2cdbc731.chunk.js.map",
+    "runtime-main.js": "/algoliamovies/static/js/runtime-main.b8c75b44.js",
+    "runtime-main.js.map": "/algoliamovies/static/js/runtime-main.b8c75b44.js.map",
+    "static/js/2.6ec2f227.chunk.js": "/algoliamovies/static/js/2.6ec2f227.chunk.js",
+    "static/js/2.6ec2f227.chunk.js.map": "/algoliamovies/static/js/2.6ec2f227.chunk.js.map",
+    "index.html": "/algoliamovies/index.html",
+    "static/css/main.805e8ffb.chunk.css.map": "/algoliamovies/static/css/main.805e8ffb.chunk.css.map",
+    "static/js/2.6ec2f227.chunk.js.LICENSE.txt": "/algoliamovies/static/js/2.6ec2f227.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/algoliamovies/static/media/240eb0faf9e82b8fc7c3ff713b53efaa.240eb0fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c75b44.js",
+    "static/js/2.6ec2f227.chunk.js",
+    "static/css/main.805e8ffb.chunk.css",
+    "static/js/main.2cdbc731.chunk.js"
+  ]
+}
